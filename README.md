@@ -9,17 +9,8 @@ This section will be filled in sporadically over the spring.
 - [Integrals](#)
 - [Probability](#)
 
-## Descriptive and Inferential Statistics
 - [Descriptive and Inferential Statistics](#)
-
-## Linear Algebra
 - [Linear Algebra](#)
-
-## Linear Regression
 - [Linear Regression](#)
-
-## Logistic Regression
 - [Logistic Regression](#)
-
-## Neural Networks (Deep Learning)
 - [Neural Networks (Deep Learning)](#)

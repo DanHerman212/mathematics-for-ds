@@ -3,6 +3,7 @@ This section will be filled in sporadically over the spring.
 # Topics 
 
 ## Basic Calculus
+- [Exponent](#)
 - [Logarithm](#)
 - [Derivatives](#)
 - [Integrals](#)

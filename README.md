@@ -1,7 +1,6 @@
 This section will be filled in sporadically over the spring.
 
 # Topics 
-This will be filled in sporadically over the spring
 
 ## Basic Calculus
 - [Logarithm](#)

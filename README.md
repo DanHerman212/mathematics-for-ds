@@ -9,6 +9,7 @@ This section will be filled in sporadically over the spring.
 - [Integrals](#)
 - [Probability](#)
 
+## Other Key Topics
 - [Descriptive and Inferential Statistics](#)
 - [Linear Algebra](#)
 - [Linear Regression](#)

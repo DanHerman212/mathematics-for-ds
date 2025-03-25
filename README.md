@@ -7,9 +7,9 @@ This section will be filled in sporadically over the spring.
 - [Logarithm](#)
 - [Derivatives](#)
 - [Integrals](#)
-- [Probability](#)
 
 ## Other Key Topics
+- [Probability](#)
 - [Descriptive and Inferential Statistics](#)
 - [Linear Algebra](#)
 - [Linear Regression](#)
